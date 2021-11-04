@@ -1,0 +1,7 @@
+D:\Desenvolvimento\Fontes\CSharp\OOP\OOPGeometry\bin\Debug\OOPGeometry.exe.config
+D:\Desenvolvimento\Fontes\CSharp\OOP\OOPGeometry\bin\Debug\OOPGeometry.exe
+D:\Desenvolvimento\Fontes\CSharp\OOP\OOPGeometry\bin\Debug\OOPGeometry.pdb
+D:\Desenvolvimento\Fontes\CSharp\OOP\OOPGeometry\obj\Debug\OOPGeometry.csprojAssemblyReference.cache
+D:\Desenvolvimento\Fontes\CSharp\OOP\OOPGeometry\obj\Debug\OOPGeometry.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Fontes\CSharp\OOP\OOPGeometry\obj\Debug\OOPGeometry.exe
+D:\Desenvolvimento\Fontes\CSharp\OOP\OOPGeometry\obj\Debug\OOPGeometry.pdb
